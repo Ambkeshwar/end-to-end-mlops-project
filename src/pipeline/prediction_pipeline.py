@@ -23,7 +23,7 @@ class PredictPipeline:
             scaled_fea=preprocessor.transform(features)
             pred=model.predict(scaled_fea)
 
-            return pred
+            return pred 
 
         except Exception as e:
             raise customexception(e,sys)
