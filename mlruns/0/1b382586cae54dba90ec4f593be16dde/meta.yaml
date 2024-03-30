@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/1b382586cae54dba90ec4f593be16dde/artifacts
+end_time: 1711798107341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b382586cae54dba90ec4f593be16dde
+run_name: receptive-cub-506
+run_uuid: 1b382586cae54dba90ec4f593be16dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711798092217
+status: 3
+tags: []
+user_id: hp
